@@ -1,1 +1,11 @@
-/* your code */
+table {
+  width: 100%;
+}
+
+th {
+  height: 40px;
+  background-color: skyblue
+}
+td {
+  text-align: center;
+}
